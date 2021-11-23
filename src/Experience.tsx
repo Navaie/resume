@@ -30,7 +30,7 @@ const Experience = ({ items, header }) =>
             )}
             <Period startDate={item.startDate} endDate={item.endDate} />
           </h5>
-          <p>{item.summary}</p>
+          <p dangerouslySetInnerHTML={{ __html: item.summary }} />
         </article>
       ))}
     </section>

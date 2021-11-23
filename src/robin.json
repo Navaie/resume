@@ -39,72 +39,80 @@
   },
   "work": [
     {
-      "name": "ING Domestic Bank",
-      "company": "ING NL",
-      "position": "IT Chapter Lead",
-      "website": "http://ing.nl",
-      "startDate": "2020",
-      "summary": "Currently I work as an IT Chapter Lead, responsible for 15 engineers, with mixed cultural background, technical understanding. My team is a mix of internal, onshore, and offshore engineers, split between NL and India. In my role I am responsible for helping my engineers grow and unfold their potential. For 30% of my time, I work in a squad as an engineer. The IT landscape consists of Java APIs, legacy applications, Pega and a multitude of DevOps tools (internal cloud, Azure DevOps).",
+      "name": "Stippl",
+      "company": "Stippl",
+      "position": "Co-founder & CTO",
+      "website": "https://stipp.io",
+      "startDate": "2019",
+      "summary": "Co-founder and CTO of Stippl.io, the all in one adventure planner that helps travellers plan everything in one place. From research and inspiration to the perfect route, including accommodations, things to do and transportation. ",
       "location": "Amsterdam, NL"
     },
     {
-      "name": "ING Tech",
-      "company": "ING NL",
-      "position": "Information Architect & Product Owner",
-      "website": "http://ing.com",
-      "startDate": "2018",
-      "endDate": "2020",
-      "summary": "Here I worked on an innovation project where a software prototype, specifically an analytical platform was developed. As the product owner of the project, I was highly involved in stakeholder management to spread the vision and create feedback loops with the community. My role as the architect was to design the fundamental structures of the software system, and to figure out where it fits best into the enterprise landscape. Besides that, I was also involved in the software development process to ensure that the architecture is in the innovation phase deeply intertwined with programming.  At the end of 2019 I gave a talk on graph databases and the MVP analytical platform I developed during the yearly ING Tech conference in Romania.",
+      "name": "ING Neo",
+      "company": "ING Neo",
+      "position": "Senior Frontend Engineer",
+      "website": "https://www.ing.com/Newsroom/News/ING-combines-all-innovation-activities-into-new-business-area-ING-Neo-1.htm",
+      "startDate": "2019",
+      "summary": "Frontend Engineer, along the way picked up duties as Technical Product Owner & Scrum Master for the Frontend team. <br>Main topics: <li>TypeScript</li> <li>React & React Native</li> <li>Redux & Observables</li> Secondary topics: <li>Scala</li> <li>DSLs</li> <li>Code generation</li>",
       "location": "Amsterdam, NL"
     },
     {
-      "name": "ING Modelbank",
-      "company": "ING ES",
-      "position": "Platform Architect",
-      "website": "http://ing.es",
-      "summary": "In my STA position I worked on a reactive microservice platform. There I was part of the development of the full-stack Architecture as well as maintaining and extending the microservice application. As a DevOps Engineer I also maintained and improved infrastructure components like virtual machines and scalable containers. Next to that I created a small platform to share self-made technical tutorials of latest technical trends and coding education. Another part was the bi-weekly creation of an architectural newsletter to ensure a good communication flow between architects and developers, as well infrastructure engineers.",
-      "startDate": "2018",
-      "endDate": "2018",
-      "location": "Madrid, Spain"
-    },
-    {
-      "name": "ING-DiBa",
-      "company": "ING Germany",
-      "position": "ITP IT Trainee",
-      "website": "http://ing.de",
-      "summary": "I rotated three times within the ING International Talent Programme to improve my knowledge about the full IT stack. My first rotation was in IT Service Management. After that, I did a rotation in Virtualization & Cloud services, where I learned about the maintenance, creation and cleaning of VMs, CPU stress testing and gathered some RHEL experience. My final rotation was as a DevOps Engineer at Continuous Delivery as a Service, where I focused on Jenkinsfiles, microservices, Docker, Groovy and Java. During this rotation I also gave a talk on Jenkins and Jenkinsfiles during the yearly ING Tech conference in Frankfurt.",
+      "name": "ING Neo",
+      "company": "ING Neo",
+      "position": "Fullstack DevOps Engineer",
+      "website": "https://www.ing.com/Newsroom/News/ING-combines-all-innovation-activities-into-new-business-area-ING-Neo-1.htm",
       "startDate": "2016",
-      "endDate": "2017",
-      "location": "Frankfurt am Main & Nuremberg, Germany"
+      "endDate": "2019",
+      "summary": "After my Trainee rotations I started working in the ING Labs as a DevOps Engineer. In a small team I work on web applications for internal use and on consulting innovation teams on IT Architecture and the usage of public clouds. Main achievements:<li>Rebuilt one of our applications using Node.js and React</li><li>Migration of innovation teams from innovation environment into ING production environment</li><li>Set up our own continuous deployment pipeline (including continuous integration flow)</li><li>Set up automated testing</li><li>Introduced SonarQube in the development process</li><li>Led & executed the migration of VMs in private cloud environment to Docker on Microsoft Azure</li>",
+      "location": "Amsterdam, NL"
     },
     {
-      "name": "Siemens AG",
-      "position": "",
-      "website": "http://ing.de",
-      "summary": "Master thesis on creating a CMDB using SQL. Also, I was part of the Women in STEM talent programme of Siemens. Next to that, I worked in the CLoud Technology Expert Group.",
-      "startDate": "2014",
+      "name": "ING International Talent Programme",
+      "company": "ING Netherlands",
+      "position": "IT Trainee",
+      "website": "https://www.ing.jobs/global/careers/international-talent-programme.htm",
+      "startDate": "2015",
+      "endDate": "2019",
+      "summary": "The ING International Talent Programme is a tailor-made four-year graduate programme. The first year consists of two short-term assignments, of which the second one is done abroad. After this year, Trainees go into their \"fixed position\" where they will work for a longer period of time.",
+      "location": "Amsterdam, NL"
+    },
+    {
+      "name": "International Advanced Analytics",
+      "company": "ING Germany",
+      "position": "IT Trainee",
+      "website": "https://www.ing.de",
+      "startDate": "2016",
       "endDate": "2016",
-      "location": "Nuremberg, Germany"
+      "summary": "Short Term Assignment: for my second rotation as an IT I worked as a Blackbelt/Data Engineer in the International Advanced Analytics Team in Frankfurt.",
+      "location": "Frankfurt, Germany"
     },
     {
-      "name": "Dodd Family",
-      "position": "Au Pair",
-      "website": "",
-      "company": "Ireland",
-      "summary": "First working experience abroad as an au-paur in Ireland. I was responsible for three children, ranging from ages 4 to 11.",
-      "startDate": "2011",
-      "endDate": "2011",
-      "location": "Dublin, Ireland"
+      "name": "ING Neo",
+      "company": "ING Netherlands",
+      "position": "Innovation IT Engineer",
+      "website": "https://www.ing.jobs/global/careers/international-talent-programme.htm",
+      "startDate": "2015",
+      "endDate": "2015",
+      "summary": "The ING International Talent Programme is a tailor-made four-year graduate programme. The first year consists of two short-term assignments, of which the second one is done abroad. After this year, Trainees go into their \"fixed position\" where they will work for a longer period of time.",
+      "location": "Amsterdam, NL"
     }
   ],
   "volunteer": [
     {
-      "position": "Exchange Student Buddy",
-      "name": "Nuremberg Institute of Technology (GSO)",
-      "startDate": "2013",
-      "endDate": "2014",
-      "summary": "I volunteered for the university as a buddy for international exchange students. I helped them find their way around the German education system, the city and bureacracy (e.g. bank appointments, registering in the city).",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "position": "Waterpolo Trainer/Coach",
+      "name": "De Aalscholver",
+      "startDate": "2011",
+      "endDate": "2018",
+      "summary": "I was a trainer and coach of several teams, ranging from youth (<15, <17) to the women's senior team.",
+      "highlights": []
+    },
+    {
+      "position": "Swimming pool volunteer",
+      "name": "Special Olympics Netherlands",
+      "startDate": "2015",
+      "endDate": "2015",
+      "summary": "Worked as a volunteer at the Special Olympics competitive swimming event in Almere.",
+      "highlights": []
     }
   ],
   "education": [

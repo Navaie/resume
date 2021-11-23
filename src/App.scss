@@ -1,4 +1,8 @@
-$main-color: #34568b;
+$primary-color: #774f38;
+$secondary-color: #e08e79;
+$tertiary-color: #f1d4af;
+$quad-color: #ece5ce;
+$tetra-color: #c5e0dc;
 
 .App {
   text-align: center;
@@ -45,12 +49,12 @@ $main-color: #34568b;
   margin: auto;
   max-width: 60rem;
   margin: 2rem;
-  background-color: rgba($color: $main-color, $alpha: 0.13);
+  background-color: rgba($color: $secondary-color, $alpha: 0.13);
   border-radius: 15px;
 }
 
 .employer {
-  color: $main-color;
+  color: $primary-color;
   font-size: smaller;
 }
 
@@ -80,11 +84,11 @@ a {
 
 .contact {
   div {
-    color: $main-color;
+    color: $primary-color;
   }
   a {
     padding: 0.5rem 0rem;
-    color: $main-color;
+    color: $primary-color;
   }
 }
 
@@ -93,7 +97,7 @@ p {
 }
 
 .tag {
-  color: $main-color;
+  color: $primary-color;
   font-size: smaller;
 }
 
@@ -132,6 +136,10 @@ aside {
 
 .profiles {
   margin-top: 2rem;
+}
+p > li {
+  list-style-type: circle;
+  margin: 0.3rem;
 }
 
 @media all and (max-width: 600px) {
